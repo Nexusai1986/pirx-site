@@ -1,0 +1,4 @@
+# Pre-launch: hidden from search engines until legal review (decision 16.11.2026).
+# To open: replace the two lines below with "User-agent: *" and "Allow: /", remove the robots meta tag from the pages.
+User-agent: *
+Disallow: /

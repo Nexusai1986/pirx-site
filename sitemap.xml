@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://pirx.chat/</loc><xhtml:link rel="alternate" hreflang="en" href="https://pirx.chat/"/><xhtml:link rel="alternate" hreflang="pl" href="https://pirx.chat/pl.html"/></url>
+  <url><loc>https://pirx.chat/pl.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://pirx.chat/"/><xhtml:link rel="alternate" hreflang="pl" href="https://pirx.chat/pl.html"/></url>
+  <url><loc>https://pirx.chat/business.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://pirx.chat/business.html"/><xhtml:link rel="alternate" hreflang="pl" href="https://pirx.chat/pl-business.html"/></url>
+  <url><loc>https://pirx.chat/pl-business.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://pirx.chat/business.html"/><xhtml:link rel="alternate" hreflang="pl" href="https://pirx.chat/pl-business.html"/></url>
+  <url><loc>https://pirx.chat/privacy.html</loc></url>
+  <url><loc>https://pirx.chat/pl-privacy.html</loc></url>
+  <url><loc>https://pirx.chat/terms.html</loc></url>
+  <url><loc>https://pirx.chat/pl-terms.html</loc></url>
+</urlset>
